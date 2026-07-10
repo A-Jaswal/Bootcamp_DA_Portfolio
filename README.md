@@ -42,9 +42,6 @@ Conducted a retail sales analysis using Excel formulas such as SUM, AVERAGE, and
 
 [📄 Click here to view detailed Excel Project](excel_project.md)
 
-**Description:**  
-Data‑cleaning and analysis using formulas, pivot tables, and charts to uncover customer trends and insights.
-
 ---
 
 ### 📊 Tableau Dashboard
