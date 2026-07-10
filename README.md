@@ -54,15 +54,18 @@ Analysed global health indicators using multiple Tableau visualisations, includi
 - Pie Chart – Population distribution by gender  
 - Heat Map – Lung cancer rates by country and year  
 
+
 [📄 Click here to view Global Health Insights interactive Dashboard](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Tableau Dashboard Screenshot](Images/Global_Health_Insights.png)
+
 
 **Spotify Music Features**  
 Explored music popularity and audio characteristics using:
 - Horizontal Bar Charts – Genre popularity and artist rankings  
 - Box Plots – Acousticness, danceability, and energy distributions  
 - Scatter Plots – Danceability vs popularity and duration vs popularity (with trend lines)
+
 
 [📄 Click here to view Spotify features interactive Dashboard](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
