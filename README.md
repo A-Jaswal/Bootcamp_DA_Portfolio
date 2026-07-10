@@ -44,12 +44,29 @@ Conducted a retail sales analysis using Excel formulas such as SUM, AVERAGE, and
 ---
 
 ### 📊 Tableau Dashboard
-[📄 View Tableau Dashboard](tableau_project.md)
+**Overview**
+I have completed following two projects where I have used Interactive dashboards for visualising KPIs, trends, and patterns using real‑world datasets.
 
-![Tableau Dashboard Screenshot](Images/tableau_dashboard.png)
+**Global Health Insights**
+Analysed global health indicators using multiple Tableau visualisations, including:
+- Line Chart – Life expectancy trends across countries  
+- Horizontal Bar Chart – Life expectancy by continent  
+- Pie Chart – Population distribution by gender  
+- Heat Map – Lung cancer rates by country and year  
 
-**Description:**  
-Interactive dashboards visualising KPIs, trends, and patterns using real‑world datasets.
+[📄 View Tableau Dashboard](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Tableau Dashboard Screenshot](Images/Global_Health_Insights.png)
+
+**Spotify Music Features**  
+Explored music popularity and audio characteristics using:
+- Horizontal Bar Charts – Genre popularity and artist rankings  
+- Box Plots – Acousticness, danceability, and energy distributions  
+- Scatter Plots – Danceability vs popularity and duration vs popularity (with trend lines)
+
+[📄 View Tableau Dashboard](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Tableau Dashboard Screenshot](Images/Spotify_Features.png)
 
 ---
 
