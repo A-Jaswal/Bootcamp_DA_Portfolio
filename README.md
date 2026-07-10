@@ -55,9 +55,11 @@ Analysed global health indicators using multiple Tableau visualisations, includi
 - Heat Map – Lung cancer rates by country and year  
 
 
+![Tableau Dashboard Screenshot](Images/Global_Health_Insights.png)
+
+
 [📄 Click here to view Global Health Insights interactive Dashboard](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Tableau Dashboard Screenshot](Images/Global_Health_Insights.png)
 
 
 **Spotify Music Features**  
@@ -67,9 +69,10 @@ Explored music popularity and audio characteristics using:
 - Scatter Plots – Danceability vs popularity and duration vs popularity (with trend lines)
 
 
-[📄 Click here to view Spotify features interactive Dashboard](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 ![Tableau Dashboard Screenshot](Images/Spotify_Features.png)
+
+
+[📄 Click here to view Spotify features interactive Dashboard](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ---
