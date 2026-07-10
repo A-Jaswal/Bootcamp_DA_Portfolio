@@ -25,9 +25,20 @@ I learnt the purpose and advantages of Python, how algorithms impact data proces
 ---
 
 ### 🧮 Excel Project
-[📄 View Detailed Excel Project](excel_project.md)
+**Overview**
+**Bike Sales Analysis** 
+Analysed bike purchase revenue across age groups using Excel formulas, pivot tables, and charts to uncover customer trends and business insights.
 
-![Excel Project Screenshot](Images/excel_project.png)
+![Bike Sales Analysis](Images/Bike_Sales_Pivot.png)
+
+![Bike Sales Analysis](Images/Bike_Sales_Summary.png)
+
+**Retail Sales Analysis** 
+Conducted a retail sales analysis using Excel formulas such as SUM, AVERAGE, and VLOOKUP to compute revenue metrics, identify product performance patterns, and merge lookup data for deeper insights into sales trends.
+
+![Retail Sales Analysis](Images/Retail_Sales_analysis.png)
+
+[📄 Click here to view detailed Excel Project](excel_project.md)
 
 **Description:**  
 Data‑cleaning and analysis using formulas, pivot tables, and charts to uncover customer trends and insights.
