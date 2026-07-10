@@ -62,6 +62,8 @@ Analysed global health indicators using multiple Tableau visualisations, includi
 
 
 
+
+
 **Spotify Music Features**  
 Explored music popularity and audio characteristics using:
 - Horizontal Bar Charts – Genre popularity and artist rankings  
@@ -73,6 +75,8 @@ Explored music popularity and audio characteristics using:
 
 
 [📄 Click here to view Spotify features interactive Dashboard](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 
 
 ---
