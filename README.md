@@ -18,3 +18,66 @@ I learnt the fundamentals of cloud computing, including IaaS, PaaS, SaaS, major 
 
 ### 🐍 Python & Google Colab  
 I learnt the purpose and advantages of Python, how algorithms impact data processing, and how to use libraries like Pandas, NumPy, Matplotlib, and Seaborn along with comparison operators, conditional statements, and loops.
+
+
+## 📂 Projects I Have Completed
+
+---
+
+### 🧮 Excel Project
+[📄 View Detailed Excel Project](excel_project.md)
+
+![Excel Project Screenshot](Images/excel_project.png)
+
+**Description:**  
+Data‑cleaning and analysis using formulas, pivot tables, and charts to uncover customer trends and insights.
+
+---
+
+### 📊 Tableau Dashboard
+[📄 View Tableau Dashboard](tableau_project.md)
+
+![Tableau Dashboard Screenshot](Images/tableau_dashboard.png)
+
+**Description:**  
+Interactive dashboards visualising KPIs, trends, and patterns using real‑world datasets.
+
+---
+
+### 📈 Power BI Report
+[📄 View Power BI Report](powerbi_project.md)
+
+![Power BI Report Screenshot](Images/powerbi_report.png)
+
+**Description:**  
+Dynamic reports built with DAX measures, data modelling, and automated insights.
+
+---
+
+### 🗄️ SQL Project
+[📄 View SQL Project](sql_project.md)
+
+![SQL Project Screenshot](Images/sql_project.png)
+
+**Description:**  
+SQL queries for data extraction, filtering, joins, grouping, and business‑focused analysis.
+
+---
+
+### ☁️ Azure Cloud Project
+[📄 View Azure Project](azure_project.md)
+
+![Azure Project Screenshot](Images/azure_project.png)
+
+**Description:**  
+Hands‑on cloud exercises using Blob Storage, Data Lake, File Storage, Table Storage, and Cosmos DB.
+
+---
+
+### 🐍 Python Project
+[📄 View Python Project](python_project.md)
+
+![Python Project Screenshot](Images/python_project.png)
+
+**Description:**  
+Data processing and visualisation using Pandas, NumPy, Matplotlib, and Seaborn.
