@@ -38,7 +38,7 @@ Analysed bike purchase revenue across age groups using Excel formulas, pivot tab
 
 Conducted a retail sales analysis using Excel formulas such as SUM, AVERAGE, and VLOOKUP to compute revenue metrics, identify product performance patterns, and merge lookup data for deeper insights into sales trends.
 
-![Retail Sales Analysis](Images/Retail_Sales_analysis.png)
+![Retail Sales Analysis](Images/Retail_Sales_Analysis.png)
 [📄 Click here to view detailed Excel Project](excel_project.md)
 
 ---
