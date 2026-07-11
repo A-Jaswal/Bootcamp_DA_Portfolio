@@ -5,7 +5,7 @@ SELECT COUNT(*) AS Cities_in_USA
 FROM city
 WHERE CountryCode = 'USA';
 
-![Query 1 Output](Images/query1_output.png)
+![Query 1 Output](SQL_query1.png)
 
 ---
 
