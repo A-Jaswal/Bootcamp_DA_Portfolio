@@ -15,7 +15,7 @@ FROM country
 ORDER BY LifeExpectancy DESC
 LIMIT 1;
 
-![Query 2 Output](Images/query2_output.png)
+![Query 2 Output](Images/SQL_query2.png)
 
 ---
 
