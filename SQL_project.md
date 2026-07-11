@@ -1,4 +1,4 @@
-## 📘 SQL Queries & Output Screenshots
+## 📘 World Data Analysis
 
 ### 1️⃣ Count Cities in USA
 SELECT COUNT(*) AS Cities_in_USA
