@@ -105,11 +105,15 @@ Built an interactive Power BI dashboard using DAX measures and data modelling to
 
 ### 🗄️ SQL Project
 
-**Overview**
+**World Data Analysis**
 
-Analysed the MySQL World database using 19 structured SQL queries to explore cities, countries, populations, GDP, life expectancy, and demographic patterns. This project demonstrates core SQL skills including filtering, sorting, joins, grouping, aggregate functions, subqueries, pattern matching, and data extraction.
+This project focuses on designing a clear and structured Entity‑Relationship Diagram (ERD) for a relational database.
+The ERD demonstrates core database modelling concepts including entity identification, primary keys, foreign keys, and one‑to‑many relationships.
 
 ![World Data ERD](Images/SQL_World_ERD.png)
+
+
+Analysed the MySQL World database using 19 structured SQL queries to explore cities, countries, populations, GDP, life expectancy, and demographic patterns. This project demonstrates core SQL skills including filtering, sorting, joins, grouping, aggregate functions, subqueries, pattern matching, and data extraction.
 
 
 [📄 Click here to view World Data Analysis Project](SQL_project.md)
