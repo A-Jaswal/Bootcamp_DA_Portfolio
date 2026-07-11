@@ -34,7 +34,7 @@ FROM city
 ORDER BY Population DESC
 LIMIT 10;
 
-![Query 4 Output](Images/query4_output.png)
+![Query 4 Output](Images/SQL_query4.png)
 
 ---
 
@@ -44,7 +44,7 @@ FROM city
 WHERE Population > 2000000
 ORDER BY Population DESC;
 
-![Query 5 Output](Images/query5_output.png)
+![Query 5 Output](Images/SQL_query5.png)
 
 ---
 
@@ -53,7 +53,7 @@ SELECT Name AS City
 FROM city
 WHERE Name LIKE 'Be%';
 
-![Query 6 Output](Images/query6_output.png)
+![Query 6 Output](Images/SQL_query6.png)
 
 ---
 
@@ -62,7 +62,7 @@ SELECT Name AS City, Population
 FROM city
 WHERE Population BETWEEN 500000 AND 1000000;
 
-![Query 7 Output](Images/query7_output.png)
+![Query 7 Output](Images/SQL_query7.png)
 
 ---
 
@@ -71,7 +71,7 @@ SELECT Name AS City
 FROM city
 ORDER BY Name ASC;
 
-![Query 8 Output](Images/query8_output.png)
+![Query 8 Output](Images/SQL_query8.png)
 
 ---
 
@@ -82,7 +82,7 @@ GROUP BY Name
 ORDER BY Population DESC
 LIMIT 1;
 
-![Query 9 Output](Images/query9_output.png)
+![Query 9 Output](Images/SQL_query9.png)
 
 ---
 
@@ -92,7 +92,7 @@ FROM city
 GROUP BY Name
 ORDER BY Name;
 
-![Query 10 Output](Images/query10_output.png)
+![Query 10 Output](Images/SQL_query10.png)
 
 ---
 
@@ -103,7 +103,7 @@ GROUP BY Name
 ORDER BY Population ASC
 LIMIT 1;
 
-![Query 11 Output](Images/query11_output.png)
+![Query 11 Output](Images/SQL_query11.png)
 
 ---
 
@@ -114,7 +114,7 @@ GROUP BY Name
 ORDER BY Population DESC
 LIMIT 1;
 
-![Query 12 Output](Images/query12_output.png)
+![Query 12 Output](Images/SQL_query12.png)
 
 ---
 
@@ -124,7 +124,7 @@ FROM Country c
 JOIN City ci ON c.Capital = ci.ID
 WHERE c.Name = 'Spain';
 
-![Query 13 Output](Images/query13_output.png)
+![Query 13 Output](Images/SQL_query13.png)
 
 ---
 
@@ -134,7 +134,7 @@ FROM Country c
 JOIN City ci ON c.Capital = ci.ID
 WHERE c.Continent = 'Europe';
 
-![Query 14 Output](Images/query14_output.png)
+![Query 14 Output](Images/SQL_query14.png)
 
 ---
 
@@ -143,7 +143,7 @@ SELECT Name AS Country, AVG(Population) AS Avg_Population
 FROM Country
 GROUP BY Name;
 
-![Query 15 Output](Images/query15_output.png)
+![Query 15 Output](Images/SQL_query15.png)
 
 ---
 
@@ -152,7 +152,7 @@ SELECT Name AS City, Population
 FROM city
 ORDER BY Population DESC;
 
-![Query 16 Output](Images/query16_output.png)
+![Query 16 Output](Images/SQL_query16.png)
 
 ---
 
@@ -161,7 +161,7 @@ SELECT Name AS Country, Population
 FROM country
 ORDER BY Population ASC;
 
-![Query 17 Output](Images/query17_output.png)
+![Query 17 Output](Images/SQL_query17.png)
 
 ---
 
@@ -172,7 +172,7 @@ JOIN Country c ON ci.ID = c.Capital
 WHERE GNP = (SELECT AVG(GNP))
 ORDER BY GNP DESC;
 
-![Query 18 Output](Images/query18_output.png)
+![Query 18 Output](Images/SQL_query18.png)
 
 ---
 
@@ -182,5 +182,5 @@ FROM city
 ORDER BY Population
 LIMIT 10 OFFSET 30;
 
-![Query 19 Output](Images/query19_output.png)
+![Query 19 Output](Images/SQL_query19.png)
 
