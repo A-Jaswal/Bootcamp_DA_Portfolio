@@ -87,7 +87,7 @@ Explored music popularity and audio characteristics using:
 
 ![Power BI Report Screenshot](Images/powerbi_report.png)
 
-[📄 Click here to view Retail Sales interactive dashboard](https://b2wcompletetraining057-my.sharepoint.com/:u:/g/personal/anujaswal_bootcamp_leepgroup_com/IQAlkLUqpMsDQb9Jjngknz71AWobuArE8tFDQizTJNEq_xk?e=NJSyve)
+[📄 Click here to view Retail Sales interactive dashboard](https://app.powerbi.com/links/HZeR7w37ij?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 
 **Description:**  
 Dynamic reports built with DAX measures, data modelling, and automated insights.
