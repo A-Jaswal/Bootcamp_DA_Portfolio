@@ -24,7 +24,7 @@ SELECT Name AS City
 FROM city
 WHERE Name LIKE '%New%';
 
-![Query 3 Output](Images/query3_output.png)
+![Query 3 Output](Images/SQL_query3.png)
 
 ---
 
