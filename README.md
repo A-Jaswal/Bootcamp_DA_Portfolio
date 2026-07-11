@@ -45,6 +45,7 @@ Conducted a retail sales analysis using Excel formulas such as SUM, AVERAGE, and
 
 ### 📊 Tableau Dashboard
 **Overview**
+
 I have completed following two projects where I have used Interactive dashboards for visualising KPIs, trends, and patterns using real‑world datasets.
 
 **Global Health Insights**
@@ -83,14 +84,17 @@ Explored music popularity and audio characteristics using:
 
 
 ### 📈 Power BI Report
-[📄 View Power BI Report](powerbi_project.md)
+
+**Overview**
+
+Dynamic reports built with DAX measures, data modelling, and automated insights.
 
 ![Power BI Report Screenshot](Images/Retail_Sales_PowerBI.png)
 
 [📄 Click here to view Retail Sales interactive dashboard](https://app.powerbi.com/links/HZeR7w37ij?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 
-**Description:**  
-Dynamic reports built with DAX measures, data modelling, and automated insights.
+[📄 View Power BI Report](powerbi_project.md)
+
 
 ---
 
