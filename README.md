@@ -85,9 +85,14 @@ Explored music popularity and audio characteristics using:
 
 ### 📈 Power BI Report
 
-**Overview**
+**Overview**  
+Built an interactive Power BI dashboard using DAX measures and data modelling to analyse regional performance, customer segments, and country‑level sales insights.
 
-Dynamic reports built with DAX measures, data modelling, and automated insights.
+**Visualisations Included**
+- Bar Chart – Profit by Region  
+- Pie Chart – Sales by Segment  
+- Horizontal Bar Chart – Total Sales by Country  
+- Flow / Decomposition Tree – Sales breakdown by Region, Segment, and Country
 
 ![Power BI Report Screenshot](Images/Retail_Sales_PowerBI.png)
 
