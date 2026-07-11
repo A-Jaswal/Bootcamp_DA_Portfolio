@@ -104,12 +104,13 @@ Built an interactive Power BI dashboard using DAX measures and data modelling to
 ---
 
 ### 🗄️ SQL Project
-[📄 View SQL Project](sql_project.md)
 
-![SQL Project Screenshot](Images/sql_project.png)
+**Overview**
 
-**Description:**  
-SQL queries for data extraction, filtering, joins, grouping, and business‑focused analysis.
+Analysed the MySQL World database using 19 structured SQL queries to explore cities, countries, populations, GDP, life expectancy, and demographic patterns. This project demonstrates core SQL skills including filtering, sorting, joins, grouping, aggregate functions, subqueries, pattern matching, and data extraction.
+
+[📄 Click here to view SQL Project](SQL_project.md)
+
 
 ---
 
