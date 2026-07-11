@@ -85,7 +85,7 @@ Explored music popularity and audio characteristics using:
 ### 📈 Power BI Report
 [📄 View Power BI Report](powerbi_project.md)
 
-![Power BI Report Screenshot](Images/powerbi_report.png)
+![Power BI Report Screenshot](Images/Retail Sales_PowerBI.png)
 
 [📄 Click here to view Retail Sales interactive dashboard](https://app.powerbi.com/links/HZeR7w37ij?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 
