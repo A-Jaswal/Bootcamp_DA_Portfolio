@@ -2,7 +2,7 @@
 
 This repository showcases my learning in data analytics and programming while under going the data skills bootcamp. Here you'll find projects I've built using Python, SQL, Power BI, Tableau, and other tools I'm exploring as I strengthen my skills in data analysis and visualisation. I’m continuously updating this space with new exercises, dashboards, and code as I progress.
 
-## 🎓 What I Have Learnt
+## 🧑‍💻 What I Have Learnt
 
 ### 🧮 Excel & Data Basics  
 I learnt to use basic and advanced Excel features, formulas, and functions to clean, analyse, and organise data effectively.
