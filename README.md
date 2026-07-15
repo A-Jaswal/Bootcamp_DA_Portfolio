@@ -4,7 +4,7 @@ This repository showcases my learning journey in data analytics and programming.
 
 ![What I Have Learnt Banner](Images/Data-Analytics.jpg)
 
-## 📘 What I Have Learnt
+<img src="Images/Data-Analytics.jpg" width="40">  ## 📘 What I Have Learnt
 
 ### 🧮 Excel & Data Basics  
 I learnt to use basic and advanced Excel features, formulas, and functions to clean, analyse, and organise data effectively.
