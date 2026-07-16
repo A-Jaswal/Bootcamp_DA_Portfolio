@@ -152,7 +152,7 @@ Worked with Python to analyse and visualise data using Pandas, NumPy, Matplotlib
 
 ![Python Project Screenshot](Images/Python_Readme2.png)
 
-[👉 Click here to view Python Project](python_project.md)
+[👉 Click here to view Python Project](Python_project.md)
 
 
 
