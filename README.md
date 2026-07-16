@@ -14,7 +14,7 @@ I learnt the key features and functions of Tableau and Power BI, and how to crea
 I learnt essential database concepts, SQL syntax, and how to perform data manipulation, filtering, and querying using MySQL Workbench.
 
 ### 🌐 Azure Cloud Computing  
-I learnt the fundamentals of cloud computing, including IaaS, PaaS, SaaS, major cloud providers, data protection legislation, and features of Azure services such as Blob Storage, Data Lake, File Storage, Table Storage, and Cosmos DB.
+I learnt the fundamentals of cloud computing, including IaaS, PaaS, SaaS, major cloud providers, different cloud types - public, private, hybrid & community cloud, data protection legislation, and features of Azure services such as Blob Storage, Data Lake, File Storage, Table Storage, and Cosmos DB.
 
 ### 💻 Python & Google Colab  
 I learnt the purpose and advantages of Python, how algorithms impact data processing, and how to use libraries like Pandas, NumPy, Matplotlib, and Seaborn along with comparison operators, conditional statements, and loops.
@@ -61,7 +61,7 @@ Analysed global health indicators using multiple Tableau visualisations, includi
 ![Tableau Dashboard Screenshot](Images/Global_Health_Insights.png)
 
 
-[📄 Click here to view Global Health Insights interactive Dashboard](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[👉 Click here to view Global Health Insights interactive Dashboard](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
@@ -77,7 +77,7 @@ Explored music popularity and audio characteristics using:
 ![Tableau Dashboard Screenshot](Images/Spotify_Features.png)
 
 
-[📄 Click here to view Spotify features interactive Dashboard](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[👉 Click here to view Spotify features interactive Dashboard](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
@@ -98,9 +98,9 @@ Built an interactive Power BI dashboard using DAX measures and data modelling to
 
 ![Power BI Report Screenshot](Images/Retail_Sales_PowerBI.png)
 
-[📄 Click here to view Retail Sales interactive dashboard](https://app.powerbi.com/links/HZeR7w37ij?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
+[👉 Click here to view Retail Sales interactive dashboard](https://app.powerbi.com/links/HZeR7w37ij?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 
-[📄 View Power BI Report](powerbi_project.md)
+[👉 Click here to view Power BI Report](powerbi_project.md)
 
 
 ---
@@ -118,18 +118,26 @@ The ERD demonstrates core database modelling concepts including entity identific
 Analysed the MySQL World database using 19 structured SQL queries to explore cities, countries, populations, GDP, life expectancy, and demographic patterns. This project demonstrates core SQL skills including filtering, sorting, joins, grouping, aggregate functions, subqueries, pattern matching, and data extraction.
 
 
-[📄 Click here to view World Data Analysis Project](SQL_project.md)
+[👉 Click here to view World Data Analysis Project](SQL_project.md)
 
 
 ---
 
 ### 🌐 Azure Cloud Project
-[📄 View Azure Project](azure_project.md)
+
+**Overview:**  
+Hands‑on cloud exercises using Blob Storage, Data Lake, File Storage, Table Storage, and Cosmos DB. Completed labs on Extreme Labs to complete the following tasks:-
+- Explore relational data in Azure
+- Explore non-relational data in Azure
+- Explore Data Analytics in Azure
 
 ![Azure Project Screenshot](Images/azure_project.png)
 
-**Description:**  
-Hands‑on cloud exercises using Blob Storage, Data Lake, File Storage, Table Storage, and Cosmos DB.
+[👉 Click here to view Azure Project](azure_project.md)
+
+
+
+
 
 ---
 
