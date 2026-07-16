@@ -28,7 +28,8 @@ I learnt the purpose and advantages of Python, how algorithms impact data proces
 **Overview**
 
 **Bike Sales Analysis:** 
-Analysed bike purchase revenue across age groups using Excel formulas, pivot tables, and charts to uncover customer trends and business insights.
+
+Analysed bike purchase revenue across age groups using **Excel formulas, pivot tables, and charts** to uncover customer trends and business insights.
 
 ![Bike Sales Analysis](Images/Bike_Sales_Pivot.png)
 
@@ -39,7 +40,8 @@ Analysed bike purchase revenue across age groups using Excel formulas, pivot tab
 Conducted a retail sales analysis using Excel formulas such as SUM, AVERAGE, and VLOOKUP to compute revenue metrics, identify product performance patterns, and merge lookup data for deeper insights into sales trends.
 
 ![Retail Sales Analysis](Images/Retail_Sales_Analysis.png)
-[📄 Click here to view detailed Excel Project](excel_project.md)
+
+[👉 Click here to view detailed Excel Project](excel_project.md)
 
 ---
 
