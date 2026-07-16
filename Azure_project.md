@@ -1,6 +1,6 @@
 ## 🌐 Azure Project – Extreme Labs
-I have completed four labs under extreme labs to complete following tasks:-
-### 1️⃣ Explore relational data in Azure
+I have completed four labs under extreme labs to complete tasks under each of them:-
+### 1️⃣ LAB 1 - Explore relational data in Azure
 
 ![Azure Project Screenshot](Images/Azure_Lab1_01.png)
 
