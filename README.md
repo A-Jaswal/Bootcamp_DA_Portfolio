@@ -133,6 +133,12 @@ Hands‑on cloud exercises using Blob Storage, Data Lake, File Storage, Table St
 
 ![Azure Project Screenshot](Images/Azure_Lab1_08.png)
 
+![Azure Project Screenshot](Images/Azure_Lab2_03.png)
+
+![Azure Project Screenshot](Images/Azure_Lab4_04.png)
+
+![Azure Project Screenshot](Images/Azure_Lab6_11.png) 
+
 [👉 Click here to view Azure Project](azure_project.md)
 
 
