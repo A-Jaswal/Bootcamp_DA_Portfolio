@@ -23,10 +23,6 @@ I analysed a GDP dataset using Python, working extensively with DataFrames and u
 
 ### 2️⃣ Student data analysis
 
-<h2 style="border-bottom: 2px solid #005EB8; padding-bottom: 4px;">
-  Student Data Analysis
-</h2>
-
 I analysed a student performance dataset using Python, working with DataFrames and using Pandas and NumPy for data cleaning, transformation and exploration. I created visualisations with Matplotlib and Seaborn, including histograms, bar charts, scatter plots, line plots and box plots, to understand how marks are distributed, compare performance across classes and genders, and identify patterns or outliers in the data. This project demonstrates how Python’s data‑analysis tools can uncover meaningful insights about student achievement.
 
 ![Python Project Screenshot](Images/Python_Students_project01.png)
