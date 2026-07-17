@@ -27,7 +27,7 @@ I learnt the purpose and advantages of Python, how algorithms impact data proces
 ### ▦ Excel Project
 **Overview**
 
-**Bike Sales Analysis:** 
+**1️⃣ Bike Sales Analysis:** 
 
 Analysed bike purchase revenue across age groups using **Excel formulas, pivot tables, and charts** to uncover customer trends and business insights.
 
@@ -35,7 +35,7 @@ Analysed bike purchase revenue across age groups using **Excel formulas, pivot t
 
 ![Bike Sales Analysis](Images/Bike_Sales_Summary.png)
 
-**Retail Sales Analysis:** 
+**2️⃣ Retail Sales Analysis:** 
 
 Conducted a retail sales analysis using Excel formulas such as SUM, AVERAGE, and VLOOKUP to compute revenue metrics, identify product performance patterns, and merge lookup data for deeper insights into sales trends.
 
@@ -50,7 +50,7 @@ Conducted a retail sales analysis using Excel formulas such as SUM, AVERAGE, and
 
 I have completed following two projects where I have used Interactive dashboards for visualising KPIs, trends, and patterns using real‑world datasets.
 
-**Global Health Insights**
+**1️⃣ Global Health Insights**
 Analysed global health indicators using multiple Tableau visualisations, including:
 - Line Chart – Life expectancy trends across countries  
 - Horizontal Bar Chart – Life expectancy by continent  
@@ -67,7 +67,7 @@ Analysed global health indicators using multiple Tableau visualisations, includi
 
 
 
-**Spotify Music Features**  
+**2️⃣ Spotify Music Features**  
 Explored music popularity and audio characteristics using:
 - Horizontal Bar Charts – Genre popularity and artist rankings  
 - Box Plots – Acousticness, danceability, and energy distributions  
@@ -107,13 +107,14 @@ Built an interactive Power BI dashboard using DAX measures and data modelling to
 
 ### 🧱 SQL Project
 
-**World Data Analysis**
+**1️⃣ World Data ERD**
 
 This project focuses on designing a clear and structured Entity‑Relationship Diagram (ERD) for a relational database.
 The ERD demonstrates core database modelling concepts including entity identification, primary keys, foreign keys, and one‑to‑many relationships.
 
 ![World Data ERD](Images/SQL_World_ERD.png)
 
+**2️⃣ World Data Analysis**
 
 Analysed the MySQL World database using 19 structured SQL queries to explore cities, countries, populations, GDP, life expectancy, and demographic patterns. This project demonstrates core SQL skills including filtering, sorting, joins, grouping, aggregate functions, subqueries, pattern matching, and data extraction.
 
