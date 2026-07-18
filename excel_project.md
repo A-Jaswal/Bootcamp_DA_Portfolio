@@ -2,12 +2,9 @@
 
 <div align="center">
 
-## Bike Sales Analysis
+## 1️⃣ Bike Sales Analysis
 
 </div>
-
-
-**1️⃣ Bike Sales Analysis**
 
 This Excel project analyses bike purchase revenue across different age groups to identify customer trends and business insights.
 
@@ -61,8 +58,11 @@ Below are all supporting charts created during the Excel analysis.
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
+<div align="center">
 
-**2️⃣ Retail Sales Analysis**
+## 2️⃣ Retail Sales Analysis
+
+</div>
 
 This Excel project analyses retail transactions to understand sales performance, commission earnings, product category trends, and demographic insights.
 
