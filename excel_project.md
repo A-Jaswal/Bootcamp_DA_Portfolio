@@ -50,24 +50,22 @@ Click below to view Excel file:
 Below are all supporting charts created during the Excel analysis.
 
 
-### * Bike Sales by Age group
+### - Bike Sales by Age group
 ![Customer Demographics](Images/Bike_Sales_Pivot.png)
 
-### * Age Group Revenue Chart
+### - Age Group Revenue Chart
 ![Age_Group_Revenue](Images/Bike_Revenue_by_Age_group.png)
 
-### * Sales Summary
+### - Sales Summary
 ![Sales_Summary](Images/Bike_Sales_Summary.png)
 
-### * Revenue by Country
+### - Revenue by Country
 ![Revenue_Country](Images/Bikesales_Product_Revenue_by_Country.png)
 
-### * Revenue & Profit by year
+### - Revenue & Profit by year
 ![Revenue Summary](Images/Bikesales_Revenue&Profit_by_Year.png)
 
-----
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 **2️⃣ Retail Sales Analysis**
 
