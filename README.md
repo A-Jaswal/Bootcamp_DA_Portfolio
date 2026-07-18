@@ -100,8 +100,6 @@ Built an interactive Power BI dashboard using DAX measures and data modelling to
 
 [👉 Click here to view Retail Sales interactive dashboard](https://app.powerbi.com/links/HZeR7w37ij?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 
-[👉 Click here to view Power BI Report](powerbi_project.md)
-
 
 ---
 
