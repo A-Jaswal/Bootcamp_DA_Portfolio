@@ -32,19 +32,6 @@ This Excel project analyses bike purchase revenue across different age groups to
 
 ---
 
-#### 📁 Download the Excel File
-## 📊 Datasets Used
-
-**Bike Sales Dataset**  
-Click below to view Excel file:
-
-[📥 Bike Sales Pivot](Files/Bike_Sales_Pivot.xlsx)
-
-[📥 Bile Sales Visualisation](Files/Bike_Sales_Visualisations.xlsx)
-
-
----
-
 ## 📊 Additional Visuals & Dashboards
 
 Below are all supporting charts created during the Excel analysis.
