@@ -50,22 +50,24 @@ Click below to view Excel file:
 Below are all supporting charts created during the Excel analysis.
 
 
-### 1️⃣ Bike Sales by Age group
+### * Bike Sales by Age group
 ![Customer Demographics](Images/Bike_Sales_Pivot.png)
 
-### 2️⃣ Age Group Revenue Chart
+### * Age Group Revenue Chart
 ![Age_Group_Revenue](Images/Bike_Revenue_by_Age_group.png)
 
-### 3️⃣ Sales Summary
+### * Sales Summary
 ![Sales_Summary](Images/Bike_Sales_Summary.png)
 
-### 4️⃣ Revenue by Country
+### * Revenue by Country
 ![Revenue_Country](Images/Bikesales_Product_Revenue_by_Country.png)
 
-### 5️⃣ Revenue & Profit by year
+### * Revenue & Profit by year
 ![Revenue Summary](Images/Bikesales_Revenue&Profit_by_Year.png)
 
-🔹🔹🔹🔹🔹
+----
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 **2️⃣ Retail Sales Analysis**
 
@@ -146,20 +148,3 @@ Used VLOOKUP to retrieve product category based on Transaction ID.
 
 ## 📝 Summary
 This retail sales project demonstrates how Excel can be used to transform raw transactional data into meaningful insights. Through commission calculations, Pivot Tables, demographic analysis and lookup functions, the project provides clear visualisations that support business strategy and decision‑making.
-
----
-
-## 🔗 Link to Main README
-Add this line to your README:
-
-### 📊 Retail Sales Analysis  
-[Click here to view the full project](retail_sales_project.md)
-
-
-
-
-#### 📝 Summary
-This project demonstrates how Excel can be used to transform raw data into meaningful insights.  
-By segmenting customers into age groups and analysing revenue patterns, the project provides clear visualisations that support business strategy and decision‑making.
-
----
