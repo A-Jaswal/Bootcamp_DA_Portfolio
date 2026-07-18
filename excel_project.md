@@ -50,22 +50,23 @@ Click below to view Excel file:
 Below are all supporting charts created during the Excel analysis.
 
 
-### - Bike Sales by Age group
+- Bike Sales by Age group
 ![Customer Demographics](Images/Bike_Sales_Pivot.png)
 
-### - Age Group Revenue Chart
+- Age Group Revenue Chart
 ![Age_Group_Revenue](Images/Bike_Revenue_by_Age_group.png)
 
-### - Sales Summary
+- Sales Summary
 ![Sales_Summary](Images/Bike_Sales_Summary.png)
 
-### - Revenue by Country
+- Revenue by Country
 ![Revenue_Country](Images/Bikesales_Product_Revenue_by_Country.png)
 
-### - Revenue & Profit by year
+- Revenue & Profit by year
 ![Revenue Summary](Images/Bikesales_Revenue&Profit_by_Year.png)
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
 
 **2️⃣ Retail Sales Analysis**
 
@@ -100,7 +101,6 @@ Calculated commission amounts using the 2023 commission rate (1.50%) and summari
 - Average commission  
 - Commission per transaction  
 
-### 📸 Screenshot  
 ![Commission Analysis](Images/Retail_Sales_Analysis.png)
 
 ---
@@ -113,7 +113,6 @@ Created a Pivot Table to summarise total sales across product categories.
 - Clothing and Beauty categories performed consistently  
 - Grand Total provides a full view of business revenue  
 
-### 📸 Screenshot  
 ![Product Category Sales](Images/Retail_Sales_Pivot.png)
 
 ---
@@ -125,8 +124,7 @@ Analysed sales distribution by gender across Beauty, Clothing and Electronics.
 - Female customers contributed slightly more to total sales  
 - Sales distribution across categories is balanced  
 - Useful for demographic‑based marketing strategies  
-
-### 📸 Screenshot  
+ 
 ![Gender Wise Sales](Images/Retail_Sales_Genderwise.png)
 
 ---
@@ -138,8 +136,7 @@ Used VLOOKUP to retrieve product category based on Transaction ID.
 - Efficient mapping of product categories  
 - Clean summary table of Transaction ID, Total Sales and Category  
 - Demonstrates lookup skills for dataset linking  
-
-### 📸 Screenshot  
+ 
 ![VLOOKUP Table](Images/Retail_Sales_VLOOKUP_output.png)
 
 ---
