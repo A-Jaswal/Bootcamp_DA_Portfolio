@@ -141,7 +141,7 @@ Hands‑on cloud exercises using Blob Storage, Data Lake, File Storage, Table St
 ### 💻 Python Project
 
 **Overview:**  
-Worked with Python to analyse and visualise data using Pandas, NumPy, Matplotlib and Seaborn. Built scripts using comparison operators, conditional logic and loops to automate tasks and process datasets efficiently. Demonstrated understanding of algorithms, DataFrames and core Python concepts through hands‑on exercises and a group data‑analysis project.
+Completed projects - **GDP(nominal) per Capita data analysis** & **Student data analysis** using Python to analyse and visualise data using Pandas, NumPy, Matplotlib and Seaborn. Built scripts using comparison operators, conditional logic and loops to automate tasks and process datasets efficiently. Demonstrated understanding of algorithms, DataFrames and core Python concepts through hands‑on exercises and a group data‑analysis project.
 
 ![Python Project Screenshot](Images/Python_Readme1.png)
 
