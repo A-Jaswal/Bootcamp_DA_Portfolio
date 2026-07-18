@@ -1,6 +1,13 @@
 ### ▦ Excel Project
 
-**1️⃣ Bike Revenue by Age Group**
+<div align="center">
+
+## Bike Sales Analysis
+
+</div>
+
+
+**1️⃣ Bike Sales Analysis**
 
 This Excel project analyses bike purchase revenue across different age groups to identify customer trends and business insights.
 
