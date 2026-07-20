@@ -87,7 +87,7 @@ Explored music popularity and audio characteristics using:
 
 ### 📈 Power BI Report
 
-**Overview**  
+**Retail Sales**  
 Built an interactive Power BI dashboard using DAX measures and data modelling to analyse regional performance, customer segments, and country‑level sales insights.
 
 **Visualisations Included**
