@@ -130,8 +130,6 @@ Hands‑on cloud exercises using Blob Storage, Data Lake, File Storage, Table St
 - Explore non-relational data in Azure
 - Explore Data Analytics in Azure
 
-![Azure Project Screenshot](Images/Azure_Lab2_03.png)
-
 ![Azure Project Screenshot](Images/Azure_Lab6_11.png) 
 
 [👉 Click here to view detailed Azure Project](Azure_project.md)
